@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "delivery-icon-transparent-background-shipping-cost-ico-11562852302e3mtlf1bfz.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
